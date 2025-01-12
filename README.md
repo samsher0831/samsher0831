@@ -1,12 +1,15 @@
 ## 👩‍💻 About Me
 
-### Hi there 👋 I'm Vishal, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
+### Hi there 👋 I'm Samsher, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
 - *🌱 Currently Learning:* Advanced automation techniques using Cypress and Selenium WebDriver.
 - *📊 Experience:* Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
 - *💼 Projects:* Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
-- *🌍 Location:* Faridabad
-- *📧 Contact:* parjapatvishal04@gmail.com | LinkedIn: https://www.linkedin.com/in/vishal-parjapat-qa/
+- *🌍 Location:* Satna (Madhya Pradesh)
+- *📧 Contact:* samshersingh0831@gmail.com | LinkedIn: https://www.linkedin.com/in/samsher-singh-contact
+samsher-singh-contact
+Vanity URL name
+
 
 
 ## 🚀 What Do I Do?
@@ -39,8 +42,8 @@
 
 ## 🖇 Let's Connect!
 
-- *📧 Email:* parjapatvishal04@gmail.com
-- *🔗 LinkedIn:* https://www.linkedin.com/in/vishal-parjapat-qa/
+- *📧 Email:* samshersingh0831@gmail.com
+- *🔗 LinkedIn:* https://www.linkedin.com/in/samsher-singh-contact
 
 ##
 
